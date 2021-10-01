@@ -17,12 +17,6 @@
       "text": "Food shopping",
       "day": "Oct 7th at 18:30pm",
       "reminder": "false"
-    },
-    {
-      "id": "4",
-      "text": "Collect title",
-      "day": "Oct 8th at 10:30pm",
-      "reminder": "true"
     }
   ]
 }
