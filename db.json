@@ -17,6 +17,12 @@
       "text": "Food shopping",
       "day": "Oct 7th at 18:30am",
       "reminder": false
+    },
+    {
+      "text": "Finish book",
+      "day": "Oct 3rd at 12:00",
+      "reminder": true,
+      "id": "m0XK40G"
     }
   ]
 }
