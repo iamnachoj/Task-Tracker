@@ -18,7 +18,7 @@ Right after that, `npm run server` in order to turn on the json database where t
  - json-server: "^0.16.3"
  - rxjs Observables
  - FontAwesome
- - 
+
 # Stack
 
 - Angular.js 
